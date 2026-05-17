@@ -1,0 +1,810 @@
+номер,название сервера,серийный номер сервера,партийный номер сервера,компонент,количество,партийный номер компонента,описание компонента
+1,R740XD vSAN Ready Node,13XWTC3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00W9-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02D7-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02CB-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00T9-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00T2-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00W8-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00T1-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SX-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10GF-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10GH-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-070J-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-070X-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,4,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+,,,,PCI,2,FC.Slot.1-2,Fibre Channel in Slot 1 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+2,PowerEdge R750,1TPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MR-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709206,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709211,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02M5-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+3,PowerEdge R640,1VX37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,KR-03397M-SK500-2CT-00C8-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CT-00C9-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+4,PowerEdge R640,279C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,KR-03397M-SK500-2CS-051F-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CS-051I-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+5,PowerEdge R750,2H1XXP3,6V45N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0C8T2PA04,"Power Supply 1; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02M3-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04TE-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.1-2-1,NIC in Slot 1 Port 2 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,FC.Slot.7-2,Fibre Channel in Slot 7 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+6,PowerEdge R750,2SPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MS-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T500791,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A2-01SA-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T500155,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-1-1,NIC in Slot 7 Port 1 Partition 1; 4-port 1Gb Ethernet Adapter
+7,PowerEdge R750,2TPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MQ-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709205,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-004R-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-3-1,NIC in Slot 7 Port 3 Partition 1; 4-port 1Gb Ethernet Adapter
+8,PowerEdge R640,2VX37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,KR-03397M-SK500-2CS-046Q-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CS-046P-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+9,PowerEdge R640,2WX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,KR-03397M-SK500-2CT-00CX-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CT-00CQ-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+10,R740XD vSAN Ready Node,33XWTC3,6WXJT,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WT-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WL-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WG-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E2-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WK-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02C1-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00T0-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SR-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TC-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WU-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02BY-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DZ-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,TW-0X31G3-PIHIT-8C9-0EWM-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; SSDSC2KG960G8R; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-0ZRP-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-071Z-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-071X-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,4,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+11,PowerEdge R740,392T6L3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,2,HMAA8GR7AJR4N-XN,DDR4 DIMM; HMAA8GR7AJR4N-XN
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,PH-04WX8Y-TB200-173-DFRH-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 4; AL15SEB060NY; 599550590976
+,,,,Drive,1,PH-04WX8Y-TB200-173-DFN8-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 4; AL15SEB060NY; 599550590976
+,,,,Drive,1,PH-06N7KY-TBPKK-153-09HC-A00,Disk 2 in Backplane 1 of RAID Controller in Slot 4; KPM6XRUG960G; 959656755200
+,,,,Drive,1,PH-06N7KY-TBPKK-151-08S7-A00,Disk 3 in Backplane 1 of RAID Controller in Slot 4; KPM6XRUG960G; 959656755200
+,,,,PCI,2,Video.Slot.2-1,GPU Controller in Slot 2 of Instance 1; TU104GL [Tesla T4]
+,,,,PCI,2,NIC.Slot.1-1-1,NIC in Slot 1 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.4-1,RAID Controller in Slot 4; PERC H750 Adapter
+12,PowerEdge R640,3NW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,KR-03397M-SK500-2CT-008T-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CT-008V-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+13,PowerEdge R750,3SPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MV-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709204,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04SN-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T709198,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+14,PowerEdge R750,3TPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MP-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709199,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-0067-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-1-1,NIC in Slot 7 Port 1 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+15,R740XD vSAN Ready Node,43XWTC3,6WXJT,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TS-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TV-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U8-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U1-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U7-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U3-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TR-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TU-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SV-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02F9-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FC-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SW-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SG-A00,Disk 12 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SU-A00,Disk 13 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-1015-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-101A-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-06VY-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-071J-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00RX-A00,Disk 14 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00R4-A00,Disk 15 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MX-A00,Disk 16 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02ED-A00,Disk 17 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EA-A00,Disk 18 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EG-A00,Disk 19 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02C4-A00,Disk 20 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EN-A00,Disk 21 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DN-A00,Disk 22 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DX-A00,Disk 23 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+,,,,PCI,4,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+16,PowerEdge R750,44NXMZ3,KG3KD,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,06C11WA03,"Power Supply 1; PWR SPLY,1400W,RDNT,LTON"
+,,,,Drive,1,KR-0YHTJ0-SSW00-33U-02UR-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3960HCJRAD3; 959656755200
+,,,,Drive,1,KR-0YHTJ0-SSW00-33U-02UM-A00,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7L3960HCJRAD3; 959656755200
+,,,,PCI,2,NIC.Slot.1-2-1,NIC in Slot 1 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+17,PowerEdge R640,479C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,KR-03397M-SK500-2CS-051K-A01,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CS-050U-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+18,PowerEdge R750,4H1XXP3,6V45N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-0062-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-00NR-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,4,NIC.Slot.1-4-1,NIC in Slot 1 Port 4 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,FC.Slot.7-2,Fibre Channel in Slot 7 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+19,PowerEdge R750,4SPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4K40EB3-CWE,DDR4 DIMM; M393A4K40EB3-CWE
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MU-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T501227,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T500116,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-00P1-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T709213,Disk 4 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T501241,Disk 5 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,4,NIC.Slot.2-2,NIC in Slot 2 Port 2; MT2894 Family [ConnectX-6 Lx]
+,,,,PCI,4,NIC.Slot.7-3-1,NIC in Slot 7 Port 3 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+20,PowerEdge R750,4TPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MM-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709210,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-00M3-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-1-1,NIC in Slot 7 Port 1 Partition 1; 4-port 1Gb Ethernet Adapter
+21,R740XD vSAN Ready Node,52XWTC3,6WXJT,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-06PR-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-0714-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SL-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00R0-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00RA-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FA-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FK-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SF-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FF-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00RB-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FG-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FJ-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FL-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SE-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IG-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IB-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,PCI,4,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+22,PowerEdge R750,568DYP3,6V45N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0VJM47-SSK00-1A2-01TB-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-0071-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.1-4-1,NIC in Slot 1 Port 4 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,2,FC.Slot.7-2,Fibre Channel in Slot 7 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+23,PowerEdge R640,579C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01LP-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01LG-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+24,PowerEdge R750,5SNMHQ3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02PG-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AD-00BC-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,2,NIC.Slot.1-1-1,NIC in Slot 1 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,4,NIC.Slot.2-4-1,NIC in Slot 2 Port 4 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,FC.Slot.7-1,Fibre Channel in Slot 7 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+25,PowerEdge R750,5SPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MW-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709187,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04P9-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-4-1,NIC in Slot 7 Port 4 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+26,PowerEdge R750,5SPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MW-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709187,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04P9-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-4-1,NIC in Slot 7 Port 4 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+27,R740XD vSAN Ready Node,62XWTC3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MN-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E8-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MZ-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E5-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DD-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DL-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E0-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EC-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SY-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SM-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00TA-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00ST-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SP-A00,Disk 12 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00SZ-A00,Disk 13 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IC-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IE-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-06XA-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-072N-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,4,NIC.Slot.4-2-1,NIC in Slot 4 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+28,R740XD vSAN Ready Node,63XWTC3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EB-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00P8-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FU-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PK-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PC-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PW-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U5-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00V1-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00U6-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PL-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EX-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00V0-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FT-A00,Disk 12 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PN-A00,Disk 13 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IK-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10IF-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-071T-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-06XY-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+,,,,PCI,4,NIC.Slot.4-2-1,NIC in Slot 4 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-2,Fibre Channel in Slot 1 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+29,PowerEdge R640,679C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01Q8-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01PY-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+30,PowerEdge R640,779C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00I2-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00KL-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+31,PowerEdge R840,7QB92L3,TF0V7,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6154 CPU @ 3.00GHz
+,,,,DIMM,16,HMA84GR7CJR4N-VK,DDR4 DIMM; HMA84GR7CJR4N-VK
+,,,,PS,2,0PJMDNA01,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,CN-088T52-SSX00-8AP-02BA-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MZ7LH240HAHQ0D3; 239444426752
+,,,,Drive,1,CN-088T52-SSX00-8AP-0292-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MZ7LH240HAHQ0D3; 239444426752
+,,,,PCI,2,PCIeSSD.Slot.3-1,PCIe SSD in Slot 3 Disk 1; EMC PowerEdge Express Flash Ent NVMe AGN MU AIC Gen4 6.4TB
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H330 Adapter
+32,PowerEdge R640,7VX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-01LS-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-02BG-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+33,PowerEdge R640,879C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01QH-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00GU-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+34,PowerEdge R750,8SNMHQ3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0C8T2PA04,"Power Supply 1; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04SM-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04P8-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,2,FC.Slot.7-1,Fibre Channel in Slot 7 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,4,NIC.Slot.1-3-1,NIC in Slot 1 Port 3 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+35,PowerEdge R640,8VX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-0241-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-0249-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+36,PowerEdge R940,92R57Y3,3V5X1,CPU,4,CPU.Socket.3,CPU 3; Intel(R) Xeon(R) Gold 6246 CPU @ 3.30GHz
+,,,,DIMM,32,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,095HR5A05,"Power Supply 1; PWR SPLY,1600W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-2CT-064R-A01,Disk 4 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,KR-03397M-SK500-2CT-064Q-A01,Disk 5 in Backplane 1 of RAID Controller in Slot 1; HFS480G3H2X069N; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H740P Adapter
+,,,,PCI,3,PCIeExtender.Slot.11,"PCIe Extender in PCIe Slot 11; PEX 9733 33-lane, 9-port PCI Express Gen 3 (8.0 GT/s) Switch"
+,,,,PCI,8,Disk.Bay.16:Enclosure.Internal.0-1:PCIeExtender.Slot.12,PCIe SSD in Slot 16 in Bay 1; Ent NVMe PM1735a MU 3.2TB
+,,,,PCI,2,NIC.Slot.6-2-1,NIC in Slot 6 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.5-1,Fibre Channel in Slot 5 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+37,PowerEdge R750,93RBKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0C2C58-SSK00-256-046S-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3480HCHQAD3; 479559942144
+,,,,Drive,1,S6EKNE0T709046,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A2-01MU-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T709201,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+38,PowerEdge R640,979C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,2,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,DIMM,2,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22I-01QY-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00KZ-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+39,PowerEdge R640,9VX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-01ZX-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-029T-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+40,PowerEdge R740xd,9XT1813,F9N89,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
+,,,,DIMM,4,HMA84GR7CJR4N-WM,DDR4 DIMM; HMA84GR7CJR4N-WM
+,,,,PS,2,0W8R3CA02,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00B7-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00HZ-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9AV-00HP-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00G1-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00DQ-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00HQ-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9AF-01C6-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00XH-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-00JK-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B4-012X-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B3-022A-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,TH-092MDW-SGT00-9B3-02C9-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; ST8000NM0205-2FF; 8000987201536
+,,,,Drive,1,PH-04WX8Y-TB200-9AT-8KN7-A01,Disk 12 in Backplane 1 of Integrated RAID Controller 1; AL15SEB060NY; 599550590976
+,,,,Drive,1,PH-04WX8Y-TB200-9AT-8KNL-A01,Disk 13 in Backplane 1 of Integrated RAID Controller 1; AL15SEB060NY; 599550590976
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; 8Gb PCI Express Dual Port FC Adapter for POWER
+,,,,PCI,2,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+41,PowerEdge R640,B79C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00I8-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22J-00IA-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+42,PowerEdge R640,BLM87Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6246R CPU @ 3.40GHz
+,,,,DIMM,4,M393A8G40BB4-CWE,DDR4 DIMM; M393A8G40BB4-CWE
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,TW-06JGT5-PIHIT-22L-03QQ-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,Drive,1,TW-06JGT5-PIHIT-22L-03RI-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG480G8R; 479559942144
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+43,R740XD vSAN Ready Node,C2XWTC3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PA-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PV-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MT-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MP-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00R2-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00PJ-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MK-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02ES-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02FB-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E6-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EY-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02ML-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MH-A00,Disk 12 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02MS-A00,Disk 13 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-0ZRF-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-0ZRE-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-071R-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-072T-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+,,,,PCI,4,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+44,PowerEdge R750,C3RBKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4K40EB3-CWE,DDR4 DIMM; M393A4K40EB3-CWE
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0C2C58-SSK00-256-046P-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3480HCHQAD3; 479559942144
+,,,,Drive,1,S6EKNE0T709041,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709050,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-00CC-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T501225,Disk 4 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709202,Disk 5 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,4,NIC.Slot.7-4-1,NIC in Slot 7 Port 4 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+45,PowerEdge R750,D3NXMZ3,KG3KD,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,06C11WA03,"Power Supply 1; PWR SPLY,1400W,RDNT,LTON"
+,,,,Drive,1,KR-0YHTJ0-SSW00-33U-02UF-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3960HCJRAD3; 959656755200
+,,,,Drive,1,KR-0YHTJ0-SSW00-33U-02VA-A00,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7L3960HCJRAD3; 959656755200
+,,,,PCI,2,NIC.Slot.4-2-1,NIC in Slot 4 Port 2 Partition 1; BCM57416 NetXtreme-E Dual-Media 10G RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.5-2,Fibre Channel in Slot 5 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+46,PowerEdge R750,DF2VMZ3,KG3KD,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6342 CPU @ 2.80GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2F1,DDR4 DIMM; 36ASF8G72PZ-3G2F1
+,,,,PS,2,06C11WA03,"Power Supply 1; PWR SPLY,1400W,RDNT,LTON"
+,,,,Drive,1,MY-0R0P7D-MCP00-38P-29PF-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,MY-0R0P7D-MCP00-38P-29QP-A00,Disk 1 in Backplane 1 of RAID Controller in SL 3; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.4-2-1,NIC in Slot 4 Port 2 Partition 1; BCM57416 NetXtreme-E Dual-Media 10G RDMA Ethernet Controller
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,2,FC.Slot.5-1,Fibre Channel in Slot 5 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+47,PowerEdge R750,DG1XXP3,6V45N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0C8T2PA04,"Power Supply 1; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02JY-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04TP-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,2,NIC.Slot.2-1-1,NIC in Slot 2 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.7-1,Fibre Channel in Slot 7 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,4,NIC.Slot.1-4-1,NIC in Slot 1 Port 4 Partition 1; Ethernet Server Adapter I350-T4
+48,PowerEdge R750,DRPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04KZ-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T501240,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-00N8-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-4-1,NIC in Slot 7 Port 4 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+49,PowerEdge R750,DYVMHQ3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0C8T2PA04,"Power Supply 1; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02MF-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02NM-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.1-2-1,NIC in Slot 1 Port 2 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,2,FC.Slot.7-2,Fibre Channel in Slot 7 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+50,PowerEdge R750,F3RBKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0C2C58-SSK00-256-0499-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3480HCHQAD3; 479559942144
+,,,,Drive,1,S6EKNE0T500254,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04MN-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+51,PowerEdge R750,F3RBKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0C2C58-SSK00-256-0499-A00,Disk 0 in Backplane 1 of RAID Controller in SL 3; MZ7L3480HCHQAD3; 479559942144
+,,,,Drive,1,S6EKNE0T500254,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04MN-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+52,PowerEdge R750,FRPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04KY-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T501226,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-003F-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-1-1,NIC in Slot 7 Port 1 Partition 1; 4-port 1Gb Ethernet Adapter
+53,PowerEdge R750,FYVMHQ3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,1,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,PS,1,0C8T2PA04,"Power Supply 2; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04UV-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02RT-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,4,NIC.Slot.1-2-1,NIC in Slot 1 Port 2 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.7-1,Fibre Channel in Slot 7 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+54,PowerEdge R750,GRPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MN-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T501239,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AD-00ZM-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.7-1-1,NIC in Slot 7 Port 1 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+55,PowerEdge R750,GYVMHQ3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0C8T2PA04,"Power Supply 1; PWR SPLY,800W,RDNT,LTON"
+,,,,Drive,1,KR-0VJM47-SSK00-1A2-01TP-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04N7-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.7-2,Fibre Channel in Slot 7 Port 2; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,4,NIC.Slot.1-3-1,NIC in Slot 1 Port 3 Partition 1; Ethernet Server Adapter I350-T4
+56,R740XD vSAN Ready Node,H2XWTC3,6WXJT,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6254 CPU @ 3.10GHz
+,,,,DIMM,12,36ASF8G72PZ-3G2E1,DDR4 DIMM; 36ASF8G72PZ-3G2E1
+,,,,PS,2,0CMPGMA03,"Power Supply 1; PWR SPLY,1100W,RDNT,LTON"
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-004S-A00,Disk 0 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WP-A00,Disk 1 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WR-A00,Disk 2 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DS-A00,Disk 3 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02DB-A00,Disk 4 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-004U-A00,Disk 5 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WH-A00,Disk 6 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EV-A00,Disk 7 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EZ-A00,Disk 8 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EH-A00,Disk 9 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02F2-A00,Disk 10 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02E7-A00,Disk 11 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BI-00WV-A00,Disk 12 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,KR-09F9Y6-SSK00-0BH-02EU-A00,Disk 13 in Backplane 1 of Integrated RAID Controller 1; MZ7LH1T9HALT0D3; 1919716163584
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-0ZRG-A00,Disk 24 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,SG-0XMWMK-MCS00-0B4-10GC-A00,Disk 25 in Backplane 1 of Integrated RAID Controller 1; MTFDDAK960TDT; 959656755200
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-0718-A02,Disk 0 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,Drive,1,CN-0DMC15-PESIT-0CP-070Q-A02,Disk 1 on AHCI Controller in slot 3; SSDSCKKB240G8R; 240057409536
+,,,,PCI,4,NIC.Slot.4-2-1,NIC in Slot 4 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.1-1,Fibre Channel in Slot 1 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,AHCI.Slot.3-1,AHCI controller in slot 3; BOSS-S1 Adapter
+57,PowerEdge R750,HRPCKT3,PJ80M,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,4,HMAA8GR7CJR4N-XN,DDR4 DIMM; HMAA8GR7CJR4N-XN
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04L1-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709209,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709216,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02MR-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-3-1,NIC in Slot 7 Port 3 Partition 1; 4-port 1Gb Ethernet Adapter
+58,PowerEdge R750,JG1XXP3,6V45N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6348 CPU @ 2.60GHz
+,,,,DIMM,12,M393A8G40AB2-CWE,DDR4 DIMM; M393A8G40AB2-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-0VJM47-SSK00-1A1-02NH-A01,Disk 1 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04RA-A01,Disk 0 in Backplane 1 of RAID Controller in SL 1; MZ7LH480HBHQ0D3; 479559942144
+,,,,PCI,4,NIC.Slot.1-2-1,NIC in Slot 1 Port 2 Partition 1; Ethernet Server Adapter I350-T4
+,,,,PCI,2,NIC.Slot.2-2-1,NIC in Slot 2 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.7-1,Fibre Channel in Slot 7 Port 1; LPe31002-M6 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.SL.1-1,RAID Controller in SL 1; PERC H755 Front
+59,PowerEdge R750,JRPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4K40EB3-CWE,DDR4 DIMM; M393A4K40EB3-CWE
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04L0-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T709200,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T500620,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AD-00BT-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T709043,Disk 4 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709196,Disk 5 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+,,,,PCI,4,NIC.Slot.7-3-1,NIC in Slot 7 Port 3 Partition 1; 4-port 1Gb Ethernet Adapter
+60,PowerEdge R750,JSPCKT3,PJ80M,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6354 CPU @ 3.00GHz
+,,,,DIMM,2,M393A4G43BB4-CWE,DDR4 DIMM; M393A4G43BB4-CWE
+,,,,DIMM,2,M393A4K40EB3-CWE,DDR4 DIMM; M393A4K40EB3-CWE
+,,,,PS,2,0MGPPCA02,"Power Supply 1; PWR SPLY,800W,RDNT,DELTA"
+,,,,Drive,1,KR-03397M-SK500-28G-04MO-A01,Disk 0 in Backplane 1 of RAID Controller in SL 3; HFS480G3H2X069N; 479559942144
+,,,,Drive,1,S6EKNE0T501050,Disk 3 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T500533,Disk 2 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,KR-0VJM47-SSK00-1AC-04TT-A01,Disk 1 in Backplane 1 of RAID Controller in SL 3; MZ7LH480HBHQ0D3; 479559942144
+,,,,Drive,1,S6EKNE0T709207,Disk 4 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,Drive,1,S6EKNE0T709203,Disk 5 in Backplane 1 of RAID Controller in SL 3; SAMSUNG MZ7L3960; 959656755200
+,,,,PCI,4,NIC.Slot.1-2,NIC in Slot 1 Port 2; MT2894 Family [ConnectX-6 Lx]
+,,,,PCI,4,NIC.Slot.7-2-1,NIC in Slot 7 Port 2 Partition 1; 4-port 1Gb Ethernet Adapter
+,,,,PCI,1,RAID.SL.3-1,RAID Controller in SL 3; PERC H755 Front
+61,PowerEdge R640,C69C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,CN-0X31G3-PESIT-239-03SF-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG960G8R; 959656755200
+,,,,Drive,1,TW-0T50K8-PIHIT-96R-02N6-A01,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960G8R; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+62,PowerEdge R640,JMW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02NO-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,Drive,1,CN-0X31G3-PESIT-239-03VJ-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG960G8R; 959656755200
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+63,PowerEdge R640,JTX37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,CN-0X31G3-PESIT-239-047W-A04,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG960G8R; 959656755200
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02M5-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+64,PowerEdge R640,9NW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02MQ-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,Drive,1,KR-07GR2K-SK500-264-01ZM-A02,Disk 0 in Backplane 1 of RAID Controller in Slot 1; HFS960G32FEH-BA1; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+65,PowerEdge R640,H69C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02NB-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02MO-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+66,PowerEdge R640,BWX37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02MG-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,Drive,1,CN-0X31G3-PESIT-239-047V-A04,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KG960G8R; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+67,PowerEdge R640,HTX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,KR-07GR2K-SK500-264-01ZF-A02,Disk 1 in Backplane 1 of RAID Controller in Slot 1; HFS960G32FEH-BA1; 959656755200
+,,,,Drive,1,CN-05M8Y4-PESIT-32H-02M7-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; SSDSC2KB960GZR; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+68,PowerEdge R640,8LW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZA-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KQY-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+69,PowerEdge R640,9LW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZE-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KWF-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+70,PowerEdge R640,689C7Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KT9-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KWJ-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+71,PowerEdge R640,FLW37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZ0-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZH-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+72,PowerEdge R640,669C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYT-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KQZ-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+73,PowerEdge R640,GMW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYP-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KQS-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+74,PowerEdge R640,J79C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYW-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZ6-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+75,PowerEdge R640,2MW37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYL-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KT2-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+76,PowerEdge R640,789C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KWK-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZ4-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+77,PowerEdge R640,7LW37Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KQW-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZD-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-1,Fibre Channel in Slot 2 Port 1; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+78,PowerEdge R640,5SX37Y3,JXP9N,CPU,2,CPU.Socket.1,CPU 1; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0G6CCKA02,"Power Supply 1; PWR SPLY,750W,RDNT,ARTESYN"
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYY-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SZ8-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,2,NIC.Slot.3-1-1,NIC in Slot 3 Port 1 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+79,PowerEdge R640,589C7Y3,JXP9N,CPU,2,CPU.Socket.2,CPU 2; Intel(R) Xeon(R) Gold 6248R CPU @ 3.00GHz
+,,,,DIMM,4,36ASF8G72PZ-3G2B2,DDR4 DIMM; 36ASF8G72PZ-3G2B2
+,,,,PS,2,0KTW3MA00,"Power Supply 1; PWR SPLY,750W,RDNT,LTON"
+,,,,Drive,1,SG-0R0P7D-MCS00-3BA-0KWL-A00,Disk 0 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,Drive,1,SG-0R0P7D-MCS00-37T-0SYK-A00,Disk 1 in Backplane 1 of RAID Controller in Slot 1; MTFDDAK960TGA-1B; 959656755200
+,,,,PCI,2,NIC.Slot.3-2-1,NIC in Slot 3 Port 2 Partition 1; BCM57412 NetXtreme-E 10Gb RDMA Ethernet Controller
+,,,,PCI,2,FC.Slot.2-2,Fibre Channel in Slot 2 Port 2; LPe31002-M6-D 2-Port 16Gb Fibre Channel Adapter
+,,,,PCI,1,RAID.Slot.1-1,RAID Controller in Slot 1; PERC H350 Adapter
