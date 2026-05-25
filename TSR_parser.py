@@ -288,7 +288,7 @@ def _collect_cpus(root: etree._Element) -> List[Tuple[str, str, int]]:
         if model_node is not None and model_node.text:
             model = model_node.text.strip()
             counter[model] = counter.get(model, 0) + 1
-    return [("CPU", model, qty) for model, qty in sorted(counter.items())]
+    return [(model, "paste pn", qty) for model, qty in sorted(counter.items())]
 
 
 def _collect_psus(root: etree._Element) -> List[Tuple[str, str, int]]:
@@ -303,8 +303,9 @@ def _collect_psus(root: etree._Element) -> List[Tuple[str, str, int]]:
             raw_pn = pn_node.text.strip()
             formatted_pn = _format_part_number(raw_pn)
             counter[formatted_pn] = counter.get(formatted_pn, 0) + 1
+        watt = inst.find(".//PROPERTY[@NAME='EffectiveCapacity']/VALUE")
 
-    return [("PSU", pn, qty) for pn, qty in sorted(counter.items())]
+    return [("PSU " + watt.text.strip() if watt is not None and watt.text else "", pn, qty) for pn, qty in sorted(counter.items())]
 
 
 def _bytes_to_gb(size_bytes_str: str) -> str:
@@ -397,6 +398,7 @@ def _collect_pci_devices(root: etree._Element) -> List[Tuple[str, str, int]]:
     for inst in root.findall(".//INSTANCE[@CLASSNAME='DCIM_PCIDeviceView']"):
         # Проверяем InstanceID на наличие ключевых слов
         instance_id_node = inst.find(".//PROPERTY[@NAME='InstanceID']/VALUE")
+        part_num = None
         if instance_id_node is not None and instance_id_node.text:
             instance_id = instance_id_node.text.strip()
             if "Embedded" in instance_id or "Integrated" in instance_id:
@@ -404,27 +406,20 @@ def _collect_pci_devices(root: etree._Element) -> List[Tuple[str, str, int]]:
 
             if "NIC" in instance_id:
                 for inst2 in root.findall(".//INSTANCE[@CLASSNAME='DCIM_NICView']"):
-                    part_num = inst2.find(".//PROPERTY[@NAME='PartNumber']/VALUE")
-                    desc_node = inst2.find(".//PROPERTY[@NAME='DeviceDescription']/VALUE")
-                    if desc_node is not None and desc_node.text:
-                        desc = desc_node.text.strip()
-                        devices.append((desc, part_num.text.strip() if part_num is not None else "", 1))
-                continue  # NIC уже обработаны, пропускаем их как PCI устройства
+                    if inst2.find(".//PROPERTY[@NAME='InstanceID']/VALUE") is not None and inst2.find(".//PROPERTY[@NAME='InstanceID']/VALUE").text.strip() == instance_id:
+                        part_num = inst2.find(".//PROPERTY[@NAME='PartNumber']/VALUE")
 
             if "FC" in instance_id:
                 for inst2 in root.findall(".//INSTANCE[@CLASSNAME='DCIM_FCView']"):
-                    part_num = inst2.find(".//PROPERTY[@NAME='PartNumber']/VALUE")
-                    desc_node = inst2.find(".//PROPERTY[@NAME='DeviceDescription']/VALUE")
-                    if desc_node is not None and desc_node.text:
-                        desc = desc_node.text.strip()
-                        devices.append((desc, part_num.text.strip() if part_num is not None else "", 1))
-                continue  # FC адаптеры уже обработаны, пропускаем их как PCI устройства
+                    if inst2.find(".//PROPERTY[@NAME='InstanceID']/VALUE") is not None and inst2.find(".//PROPERTY[@NAME='InstanceID']/VALUE").text.strip() == instance_id:
+                        part_num = inst2.find(".//PROPERTY[@NAME='PartNumber']/VALUE")
 
         # Если устройство не встроенное - добавляем его описание
         desc_node = inst.find(".//PROPERTY[@NAME='Description']/VALUE")
         if desc_node is not None and desc_node.text:
+            part = part_num.text.strip() if part_num is not None and part_num.text else ""
             desc = desc_node.text.strip()
-            devices.append((desc, "part_num", 1))
+            devices.append((desc, part, 1))
 
     return devices
 
